@@ -5,7 +5,7 @@ I aim to solve these problems consistently to improve my problem-solving skills 
 
 ## 📌 Structure:
 - Each day's solution is stored in the format: `YYYY-MM-DD-Problem-Name`
-- Solutions are written in **Python** (or any other preferred language)
+- Solutions are written in **Python**
 - Each solution includes comments explaining the approach
 
 ## 🔥 Streak:
